@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: b2c9096862c564e3fad26bb90d4d1a61
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shampoo1
+    second: {fileID: 2100000, guid: 62f2ebe8015f148debcb6c25574ab83f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shampoo2
+    second: {fileID: 2100000, guid: b931c9a07865a44958a7e32d05d37d94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shampoo3
+    second: {fileID: 2100000, guid: 78ca53f5a41e345b39f1381815af071e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shampoo4
+    second: {fileID: 2100000, guid: 99c33f571492f4b248de23c3060f1362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shampoo5
+    second: {fileID: 2100000, guid: 25593b699910844a497c468cc173df4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bathtab
+    second: {fileID: 2100000, guid: 660fd3ee79b5a4143b00866e6b51ba09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box
+    second: {fileID: 2100000, guid: 19aa5aff753e149608b69bfd3d96982e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair
+    second: {fileID: 2100000, guid: 478a378e79dba4a70b6b589d6c07db54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dathuiflor
+    second: {fileID: 2100000, guid: 762e651855e574f658e35f896d984991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flor
+    second: {fileID: 2100000, guid: 52ae6df176e85434ea158dff91b1a9f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuzi
+    second: {fileID: 2100000, guid: 133281bcfbe0948ccad6c745a88fa4bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handrail
+    second: {fileID: 2100000, guid: e7ac15aa6a6ad4efbae300ae1d778a0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: f0f5865159bbc4a90a2d1296fae74932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirrer
+    second: {fileID: 2100000, guid: d08fdfa6fd6e84026aeb1ebc49262f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__handrail2
+    second: {fileID: 2100000, guid: 9c747130224f8471cab4ce075161876f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__handrail3
+    second: {fileID: 2100000, guid: 1faa0b04837c0428ab221d18b7cfc333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__mirrer
+    second: {fileID: 2100000, guid: d14b3e7575fce46fc9debaaaa5d98eb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__mirrer1
+    second: {fileID: 2100000, guid: b12d63014efc342b1b5442e5bffab557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__mirrer2
+    second: {fileID: 2100000, guid: beb9601514e684cc0ae22b9a3dc1b9d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__mirrer3
+    second: {fileID: 2100000, guid: 18c8657fe201d48298a6f12094c52aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: fb01bf9264e7842b3875fc8bddb47ff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: 93df4418816a7432cbf8c12abb44f59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__mirrer3
+    second: {fileID: 2100000, guid: c731b9c1234c34613b062ae9ae99e6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__mirrer4
+    second: {fileID: 2100000, guid: d1626d56e86264624999f580609e90d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__mirrer5
+    second: {fileID: 2100000, guid: 26581048ea45546bdadd8a76d7bd2a57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__mirrer6
+    second: {fileID: 2100000, guid: 1ae132492f0fa47eda3711827d19374b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: 3d744036f98184a8b8bd8926e77093b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: 9ed597b7298204b97b32044705867941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__mirrer6
+    second: {fileID: 2100000, guid: 5ead04b56d23541dc9ed804dc83d9c28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: ddfe7da175a394ff783ff059ee56bf45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: ed36c46b6f2104196b0920df4e1d1c8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__mirrer6
+    second: {fileID: 2100000, guid: ac9f9821466124d3b88cca6b33f8bbbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: a16f1a7257fbc4fe9865151b788cba28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: 210a9ecfcc761451e86f7f5dd5bdf078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: 8305914a510c04fce87c7c0aadbabd8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: f0f357b010c4e47ed80da75ef952f5e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: ab2babe78d70f4bc0a0b5108fe11ff1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: d1ea9bd069cc64320b0227df4238f421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: 52ee147ea444146d8b3dd09e86d2336b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: ed88fb9134e1f4b5bba95a67d46c8784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: 069bd9465bcc0421ab9314235ecd9ecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: 62258ffb8657b487d8e40527eecca610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: 0b37a60ac43e14c37abe5f0499a2b4e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail3
+    second: {fileID: 2100000, guid: d7875875a58aa4f5e9a38d7f64ad9a37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__handrail2
+    second: {fileID: 2100000, guid: 22b4e3761551b44e98b3863a776bc22c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: 4da3f957eb5544982a19f371cffa172a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: df55e97f92b924a818b8bbdac2947307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: 7e2ea3b51617f401cb287d54053d9749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: 4db4cb1627eb04658895d2656c552a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: 51b34ae0c883c4061bfe993d4ab75020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawarhose
+    second: {fileID: 2100000, guid: 8c7a6b7b598be4f26a5d39ad51dffd84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: fd83a64e02e6f4e4b90c92a0c6da97b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: 6b90ef655d78a4af5b98c62f7cbe4153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawarhose
+    second: {fileID: 2100000, guid: 52c3ee8df0bb84299ab6f9f8249c77c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: e84131edf442746a5b9bf2dfabe76ee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: 04cba97b286694136bf6fc6380812fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__shawarhose
+    second: {fileID: 2100000, guid: 23cef64798f1d4e22a7ae1f070a0270d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: 8a77c038766294fecbfa83d341b09a36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: a41ffc3cfcb2c417aa0f7547b15864f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__shawarhose
+    second: {fileID: 2100000, guid: 9ce4e023deee444378ecd9d4e44b1eec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: fb67bd8925f114572b29fc694d9c27cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: 4b6178db945d54819ab59109c36f0d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__shawarhose
+    second: {fileID: 2100000, guid: c573bc7bcb1cb44f29625da318fe5497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: b9b258ea0b1224e10ae50517143fd173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: 316c5bc6bfd6e4b988d20787d645708e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__shawarhose
+    second: {fileID: 2100000, guid: 5f77fd4ee181d4b7b920c495689daaec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: af7cf3dea34e04552921e5733a63c10b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__shawar_black1
+    second: {fileID: 2100000, guid: bef78f3de0eef40baafc9d1dc2bc5f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__shawarhose
+    second: {fileID: 2100000, guid: e18d50c8d6f1843de9542f6f494c4284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__shawarparts
+    second: {fileID: 2100000, guid: 09f2e3feff83b4d98bc4ee60e6ab2bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__shawar_black1
+    second: {fileID: 2100000, guid: 802b015e5e099485e9f55d934bbd7c64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__shawarhose
+    second: {fileID: 2100000, guid: 465ba71816050415ea74a9cb612c8d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__shawarparts
+    second: {fileID: 2100000, guid: 09570b733cd174ce99e28d55b6deff82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shawar_black
+    second: {fileID: 2100000, guid: 1ba2661f7147e4c27be09cf635c2f854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shawarhose
+    second: {fileID: 2100000, guid: 96f67a449fd2447279a4e5259684e0c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shawarparts
+    second: {fileID: 2100000, guid: f6ead89bf6b874e1cb0b37b24e31a837, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IMG_2493
+    second: {fileID: 2800000, guid: 1e7f5c895918344649b5c9715baf8e67, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
