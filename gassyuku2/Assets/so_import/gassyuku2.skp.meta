@@ -35,16 +35,16 @@ SketchUpImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 0.0254
-    meshCompression: 0
-    addColliders: 1
+    meshCompression: 1
+    addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
+    importCameras: 0
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -94,9 +94,9 @@ SketchUpImporter:
   assetBundleName: 
   assetBundleVariant: 
   generateBackFace: 1
-  mergeCoplanarFaces: 0
+  mergeCoplanarFaces: 1
   selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f00000030000000
   assetHash:
     serializedVersion: 2
-    Hash: 9e92ff28078b0e04b02d282010868bd1
+    Hash: a4a9026c28c0ddada6b81fae54ee951c
   fileUnit: 0
