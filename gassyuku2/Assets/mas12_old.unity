@@ -2385,8 +2385,8 @@ ParticleSystem:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 0.2509804}
         key1: {r: 1, g: 1, b: 1, a: 0.3137255}
-        key2: {r: 0, g: 0, b: 0, a: 0.078431375}
-        key3: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 1}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
         key6: {r: 0, g: 0, b: 0, a: 0}
@@ -2401,7 +2401,7 @@ ParticleSystem:
         ctime7: 0
         atime0: 0
         atime1: 14090
-        atime2: 15035
+        atime2: 65535
         atime3: 65535
         atime4: 0
         atime5: 0
@@ -2409,7 +2409,7 @@ ParticleSystem:
         atime7: 0
         m_Mode: 0
         m_NumColorKeys: 2
-        m_NumAlphaKeys: 4
+        m_NumAlphaKeys: 3
       minGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -5778,8 +5778,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 317601902}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
-  m_LocalPosition: {x: 0.0032974393, y: 0.0217, z: -0.033757254}
-  m_LocalScale: {x: 8.376284, y: 6.753058, z: -0.000052844338}
+  m_LocalPosition: {x: 0.0032974393, y: 0.038219836, z: -0.033757254}
+  m_LocalScale: {x: 0.0750494, y: 0.03963334, z: -0.000052844338}
   m_Children: []
   m_Father: {fileID: 891387226}
   m_RootOrder: 84
@@ -10724,8 +10724,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 448262626}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
-  m_LocalPosition: {x: 0.0027, y: 0.025, z: -0.041901864}
-  m_LocalScale: {x: 10.464483, y: 0.4562557, z: -0.00014815279}
+  m_LocalPosition: {x: -0.01129118, y: 0.041835226, z: -0.041901864}
+  m_LocalScale: {x: 0.0750494, y: 0.03963334, z: -0.000052844338}
   m_Children: []
   m_Father: {fileID: 1737553191}
   m_RootOrder: 84
@@ -13966,8 +13966,8 @@ ParticleSystem:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 0.2509804}
         key1: {r: 1, g: 1, b: 1, a: 0.3137255}
-        key2: {r: 0, g: 0, b: 0, a: 0.078431375}
-        key3: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 1}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
         key6: {r: 0, g: 0, b: 0, a: 0}
@@ -13982,7 +13982,7 @@ ParticleSystem:
         ctime7: 0
         atime0: 0
         atime1: 14456
-        atime2: 15420
+        atime2: 65535
         atime3: 65535
         atime4: 0
         atime5: 0
@@ -13990,7 +13990,7 @@ ParticleSystem:
         atime7: 0
         m_Mode: 0
         m_NumColorKeys: 2
-        m_NumAlphaKeys: 4
+        m_NumAlphaKeys: 3
       minGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -17359,8 +17359,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1143032053}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
-  m_LocalPosition: {x: 0.0032974393, y: 0.0231, z: 0.03600773}
-  m_LocalScale: {x: 7.3291802, y: 3.8442812, z: -0.00024381984}
+  m_LocalPosition: {x: 0.0032974393, y: 0.03753119, z: 0.03600773}
+  m_LocalScale: {x: 0.0750494, y: 0.03963334, z: -0.000052844338}
   m_Children: []
   m_Father: {fileID: 891387226}
   m_RootOrder: 83
@@ -21359,7 +21359,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 0.2509804}
-        key1: {r: 1, g: 1, b: 1, a: 0.078431375}
+        key1: {r: 1, g: 1, b: 1, a: 0.3137255}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 1}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -21375,8 +21375,8 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 0
-        atime1: 41441
-        atime2: 64957
+        atime1: 14090
+        atime2: 65535
         atime3: 65535
         atime4: 0
         atime5: 0
@@ -24753,8 +24753,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1886823310}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0.7071068, w: 0}
-  m_LocalPosition: {x: -0.0067, y: 0.0193, z: 0.0261}
-  m_LocalScale: {x: 16.485037, y: 9.50633, z: -0.0010787641}
+  m_LocalPosition: {x: -0.028177997, y: 0.04217955, z: 0.010287914}
+  m_LocalScale: {x: 0.0750494, y: 0.03963334, z: -0.000052844338}
   m_Children: []
   m_Father: {fileID: 1737553191}
   m_RootOrder: 83
@@ -25473,12 +25473,12 @@ PrefabInstance:
     - target: {fileID: 1221006315223040462, guid: d08673899800f954d872ca391d26b4b2,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1221006315223040462, guid: d08673899800f954d872ca391d26b4b2,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1221006315223040462, guid: d08673899800f954d872ca391d26b4b2,
         type: 3}
@@ -25738,17 +25738,17 @@ PrefabInstance:
     - target: {fileID: 9191395599721947338, guid: d08673899800f954d872ca391d26b4b2,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9191395599721947338, guid: d08673899800f954d872ca391d26b4b2,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9191395599721947338, guid: d08673899800f954d872ca391d26b4b2,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -3
       objectReference: {fileID: 0}
     - target: {fileID: 9191395599721947338, guid: d08673899800f954d872ca391d26b4b2,
         type: 3}
