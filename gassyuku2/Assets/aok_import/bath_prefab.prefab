@@ -10487,7 +10487,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2157512378342390780}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.0067, y: 0, z: -0}
   m_LocalScale: {x: 0.448675, y: 1, z: 10.5}
   m_Children: []
   m_Father: {fileID: 6613095466201510719}
@@ -15376,7 +15376,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1972388735875412278}
   m_Layer: 0
-  m_Name: bath_m_mas03
+  m_Name: bath_prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26167,7 +26167,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6150754124962892840
 Transform:
   m_ObjectHideFlags: 0
@@ -26176,7 +26176,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5089801244805048620}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: -0.013462114}
+  m_LocalPosition: {x: -0.0127, y: 0, z: -0.0135}
   m_LocalScale: {x: 0.448675, y: 1, z: 11.361764}
   m_Children: []
   m_Father: {fileID: 8625150593950964394}
@@ -34387,7 +34387,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6583071626393678021}
   m_LocalRotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
-  m_LocalPosition: {x: -0.00000806071, y: 0, z: -0.02}
+  m_LocalPosition: {x: -0.0078, y: 0, z: -0.02}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5011105540514551380}
