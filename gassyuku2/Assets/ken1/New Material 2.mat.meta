@@ -1,6 +1,12 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:gassyuku2/Assets/ken1/New Material 2.mat.meta
 guid: 98251d7ae53dcf641b7bf9bcf044b97a
 NativeFormatImporter:
+=======
+guid: 4cc86340a16bb438d8425798fd38fd8f
+folderAsset: yes
+DefaultImporter:
+>>>>>>> upstream/master:gassyuku2/Assets/SampleScenes/AudioMixers.meta
   externalObjects: {}
   mainObjectFileID: 0
   userData: 
