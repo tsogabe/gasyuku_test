@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:gassyuku2/Assets/mas08.unity.meta
+guid: d6a72bb044a55eb458add9212953f589
+DefaultImporter:
+=======
 guid: d5a120ac9a9d93f4ebd40330cb3e7492
 NativeFormatImporter:
+>>>>>>> upstream/master:gassyuku2/Assets/tsukasa/Materials/木目N01.mat.meta
   externalObjects: {}
   mainObjectFileID: 2100000
   userData: 

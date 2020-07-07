@@ -15,26 +15,26 @@ TagManager:
   - 
   - 
   - 
+  - THIRDPERSON_ONLY_LAYER
   - 
   - 
   - 
+  - InteractableItem
+  - OtherAvatar
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - GrabbingItem
+  - VenueLayer0
+  - VenueLayer1
   - PostProcessing
+  - PerformerOnly
   - 
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
+  - VenueLayer2
   - 
   - 
   m_SortingLayers:
